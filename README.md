@@ -10,4 +10,5 @@
 - [Programming with Abstract Data Types - Liskov & Zilles, 1974](papers/programming_with_abstract_data_types.pdf)
 - [Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I - McCarthy, 1960](papers/recursive_functions_of_symbolic_expressions_and_their_computation_by_machine.pdf)
 - [The Essence of Functional Programming - Wadler, 1992](papers/the_essence_of_functional_programming.pdf)
+- [The Next 700 Programming Languages - Landin, 1966](papers/the_next_700_programming_languages.pdf)
 - [Why Functional Programming Matters - Hughes, 1989](papers/why_functional_programming_matters.pdf)
