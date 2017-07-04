@@ -12,3 +12,10 @@
 - [The Essence of Functional Programming - Wadler, 1992](papers/the_essence_of_functional_programming.pdf)
 - [The Next 700 Programming Languages - Landin, 1966](papers/the_next_700_programming_languages.pdf)
 - [Why Functional Programming Matters - Hughes, 1989](papers/why_functional_programming_matters.pdf)
+
+### Websites
+- [Lambda the Ultimate](http://lambda-the-ultimate.org)
+- [Crafting Interpreters](http://www.craftinginterpreters.com)
+- [SICP Lectures](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures)
+- [Read Scheme](http://library.readscheme.org)
+- [Programming Language Theory](http://steshaw.org/plt)
