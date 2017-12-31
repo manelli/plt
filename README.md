@@ -4,6 +4,7 @@
 - [An Axiomatic Basis for Computer Programming - Hoare, 1969](papers/an_axiomatic_basis_for_computer_programming.pdf)
 - [Fundamental Concepts in Programming Languages - Strachey, 1967](papers/fundamental_concepts_in_programming_languages.pdf)
 - [Growing a Language - Steele, 1998](papers/growing_a_language.pdf)
+- [Hints on Programming Language Design - Hoare, 1973](papers/hints_on_programming_language_design.pdf)
 - [Monads for Functional Programming - Wadler, 1992](papers/monads_for_functional_programming.pdf)
 - [Notation as a Tool of Thought - Iverson, 1980](papers/notation_as_a_tool_of_thought.pdf)
 - [On Understanding Types, Data Abstraction, and Polymorphism - Cardelli & Wegner, 1985](papers/on_understanding_types_data_abstraction_and_polymorphism.pdf)
