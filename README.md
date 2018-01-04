@@ -21,3 +21,4 @@
 - [SICP Lectures](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures)
 - [Read Scheme](http://library.readscheme.org)
 - [Programming Language Theory](http://steshaw.org/plt)
+- [People of Programming Languages](http://www.cs.cmu.edu/~popl-interviews/)
