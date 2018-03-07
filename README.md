@@ -22,3 +22,4 @@
 - [Read Scheme](http://library.readscheme.org)
 - [Programming Language Theory](http://steshaw.org/plt)
 - [People of Programming Languages](http://www.cs.cmu.edu/~popl-interviews/)
+- [Stanford CS 242](http://cs242.stanford.edu)
