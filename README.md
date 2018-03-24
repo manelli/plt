@@ -26,3 +26,4 @@
 - [Stanford CS 242](http://cs242.stanford.edu)
 - [UW CSE341](https://courses.cs.washington.edu/courses/cse341/17au/#lectures)
 - [Functional programming books overview](http://alexott.net/en/fp/books/)
+- [PLT resources] (http://steshaw.org/plt/)
