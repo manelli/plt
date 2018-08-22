@@ -27,3 +27,4 @@
 - [UW CSE341](https://courses.cs.washington.edu/courses/cse341/17au/#lectures)
 - [Functional programming books overview](http://alexott.net/en/fp/books/)
 - [PLT resources] (http://steshaw.org/plt/)
+- [Dynamic Languages Wizards Series, Spring 2001](http://www.ai.mit.edu/projects/dynlangs/wizards-panels.html)
