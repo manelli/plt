@@ -16,6 +16,11 @@
 - [The Roots of Lisp - Graham, 2002](papers/the_roots_of_lisp.pdf)
 - [Why Functional Programming Matters - Hughes, 1989](papers/why_functional_programming_matters.pdf)
 
+### History of Programming Languages
+- [HOPL I](hopl/hopl1.pdf)
+- [HOPL II](hopl/hopl2.pdf)
+- [HOPL III](hopl/hopl3.pdf)
+
 ### Websites
 - [Lambda the Ultimate](http://lambda-the-ultimate.org)
 - [Crafting Interpreters](http://www.craftinginterpreters.com)
