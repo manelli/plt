@@ -21,6 +21,7 @@
 - [HOPL I](hopl/hopl1.pdf)
 - [HOPL II](hopl/hopl2.pdf)
 - [HOPL III](hopl/hopl3.pdf)
+- [HOPL IV](hopl/hopl4.pdf)
 
 ### Websites
 - [Lambda the Ultimate](http://lambda-the-ultimate.org)
