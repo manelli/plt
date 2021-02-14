@@ -1,4 +1,4 @@
-# PLT
+# Programming Languages
 
 ### Papers
 - [An Axiomatic Basis for Computer Programming - Hoare, 1969](papers/an_axiomatic_basis_for_computer_programming.pdf)
@@ -17,7 +17,7 @@
 - [The Roots of Lisp - Graham, 2002](papers/the_roots_of_lisp.pdf)
 - [Why Functional Programming Matters - Hughes, 1989](papers/why_functional_programming_matters.pdf)
 
-### History of Programming Languages
+### ACM SIGPLAN History of Programming Languages Proceedings
 - [HOPL I](hopl/hopl1.pdf)
 - [HOPL II](hopl/hopl2.pdf)
 - [HOPL III](hopl/hopl3.pdf)
@@ -26,12 +26,10 @@
 ### Websites
 - [Lambda the Ultimate](http://lambda-the-ultimate.org)
 - [Crafting Interpreters](http://www.craftinginterpreters.com)
-- [SICP Lectures](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures)
 - [Read Scheme](http://library.readscheme.org)
-- [Programming Language Theory](http://steshaw.org/plt)
 - [People of Programming Languages](http://www.cs.cmu.edu/~popl-interviews/)
-- [Stanford CS 242](http://cs242.stanford.edu)
-- [UW CSE341](https://courses.cs.washington.edu/courses/cse341/17au/#lectures)
+- [Programming Languages: Application and Interpretation](https://www.plai.org/)
+- [Brown CS173](http://cs.brown.edu/courses/cs173/)
 - [Functional programming books overview](http://alexott.net/en/fp/books/)
-- [PLT resources](http://steshaw.org/plt/)
+- [PLT resources](https://github.com/steshaw/plt)
 - [Dynamic Languages Wizards Series, Spring 2001](http://www.ai.mit.edu/projects/dynlangs/wizards-panels.html)
